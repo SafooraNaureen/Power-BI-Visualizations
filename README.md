@@ -1,8 +1,8 @@
 # Power-BI-Visualizations
 
-Power BI visualizations for a virtual "Adventure Works" sports accessories store after analyzing data and grabbing insights from it. 
+Power BI visualisations for a virtual "Adventure Works" sports accessories store after analyzing data and grabbing insights from it. 
 
-The visulaizations were done by viewing the Udemy course for Power BI
+The visualisations were done by viewing the Udemy course for Power BI
 
 Below are the few images from the pbix file
 
